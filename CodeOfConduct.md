@@ -8,7 +8,7 @@
 
 ## Expected Behavior
 * Be welcoming.
-* Be kind
+* Be kind.
 * Look out for each other.
 
 ## Unacceptable Behavior
