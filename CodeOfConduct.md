@@ -25,7 +25,7 @@
 ## Enforcement
 
  - Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
- - If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form here, or email conduct@dutchento.org.
+ - If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form [here](https://www.dutchento.org/contact/), or email <conduct@dutchento.org>.
  - If violations occur, organizers will take any action they deem appropriate for the infraction, up to and including expulsion.
 
-*Portions derived from the Django Code of Conduct, The Citizen Code of Conduct, The Rust Code of Conduct and The Ada Initiative under a Creative Commons Attribution-ShareAlike license.*
+*Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Citizen Code of Conduct](http://citizencodeofconduct.org/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html) and [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
