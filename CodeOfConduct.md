@@ -1,10 +1,9 @@
-# Community Code of Conduct
+# Dutchento Community Code of Conduct
 
 ## Introduction
-
 * Diversity and inclusion make our community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
-* Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic.
-* This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
+* Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic. Even people that used osCommerce or VirtueMart. It's ok, we've all been there.
+* This code of conduct and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues *online and in-person* as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## Expected Behavior
 * Be welcoming.
@@ -23,9 +22,9 @@
 * Violence, threats of violence or violent language.
 
 ## Enforcement
-
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 * If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form [here](https://www.dutchento.org/contact/), or email <conduct@dutchento.org>.
 * If violations occur, organizers will take any action they deem appropriate for the infraction, up to and including expulsion.
-
+* Claims in the form of "I can say anything because Free Speech so you cannot ban me" will be kindly referred to https://xkcd.com/1357.
+ 
 *Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Citizen Code of Conduct](http://citizencodeofconduct.org/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html) and [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
