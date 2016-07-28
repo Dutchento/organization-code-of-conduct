@@ -20,6 +20,7 @@
 * Not understanding the differences between constructive criticism and disparagement.
 * Sustained disruptions.
 * Violence, threats of violence or violent language.
+* Agressively promote your own products or services.
 
 ## Enforcement
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
