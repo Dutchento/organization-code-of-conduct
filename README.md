@@ -9,5 +9,5 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 
 ## Authors
 ------------
-Guido Jansen - <guido@dutchento.org>
+Guido Jansen - <guido@dutchento.org><br/>
 Sander Mangel - <sander@dutchento.org>
