@@ -23,3 +23,11 @@ If you are subject to unacceptable behavior, notice that someone else is being s
 
 The organizing team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference.
 Organization and Volunteers will be wearing recognizable clothing. You can also refer participants to the special registration desk in the lobby and ask for the organizers.
+
+---
+
+*_The Dutchento Code of Conduct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
+
+---
