@@ -2,7 +2,7 @@
 
 First off: **THANK YOU** for volunteering your time and dedication. You are the face of our organisation and the responsibilities you have are crucial to the succes of our event. It is our incredible volunteers who are the true engine of our community.
 
-To make everything go as smooth as possible we created this document to be clear about some general responsibilities 
+To make everything go as smooth as possible we created this document to be clear about some general responsibilities and expectations.
 
 *Interested in volunteering? Contact us at volunteer@dutchento.org.*
 
