@@ -36,12 +36,13 @@
 ## Enforcement
 * Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 * If violations occur, moderators will take any action they deem appropriate for the infraction, up to and including expulsion.
-* Claims in the form of "I can say anything because Free Speech so you cannot ban me" will be kindly referred to https://xkcd.com/1357.
+* Claims in the form of "I can say anything and you cannot ban me because Free Speech" will be kindly referred to https://xkcd.com/1357.
 * If you are the subject of, or witness to any violations of this Code of Conduct, please contact the organization by submitting a form [here](https://www.dutchento.org/contact/), or email <conduct@dutchento.org> or contact us via our Slack channel with the following usernames:
 
-    **Guido Jansen** - @guido
-    **Sander Mangel** - @sandermangel
-    **Nadja van Dijk** - @nadjavandijk
+    **Guido Jansen** - @guido<br/>
+    **Sander Mangel** - @sandermangel<br/>
+    **Nadja van Dijk** - @nadjavandijk<br/>
+
  
 *Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Citizen Code of Conduct](http://citizencodeofconduct.org/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [Open Source Bridge](http://opensourcebridge.org/about/code-of-conduct/) and [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
 
