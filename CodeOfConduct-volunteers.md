@@ -10,10 +10,10 @@ If you have any questions or concerns at any point along the way, please don't h
 
 ## Purpose
 * Dutchento exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. As a volunteer, this is the main goal that you are supporting.
-* All community members - including you as a volunteer - are expected to abide by our general [Community Code of Conduct{(https://github.com/Dutchento/organization-code-of-conduct/blob/main/CodeOfConduct-community.md). This document can be seen as an extension to that document, specifically for you.
+* All community members - including you as a volunteer - are expected to abide by our general [Community Code of Conduct](https://github.com/Dutchento/organization-code-of-conduct/blob/main/CodeOfConduct-community.md). This document can be seen as an extension to that document, specifically for you.
 
 ## Expected behavior
-* As representatives of Dutchento towards the rest of our community, volunteers are expected to be model citizens abiding our [Community Code of Conduct{(https://github.com/Dutchento/organization-code-of-conduct/blob/main/CodeOfConduct-community.md).
+* As representatives of Dutchento towards the rest of our community, volunteers are expected to be model citizens abiding our [Community Code of Conduct](https://github.com/Dutchento/organization-code-of-conduct/blob/main/CodeOfConduct-community.md).
 * You are expected to support community members in showing desired behavior and ask people to stop unacceptable behaviors.
 * Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.
 * Volunteers will be assigned certain tasks and timeslots which need to be followed stricktly. If for whetever reason you are unable to fulfill this, call your organization contact person asap so we can look for a solution.
