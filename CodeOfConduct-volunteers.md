@@ -18,9 +18,9 @@ If you have any questions or concerns at any point along the way, please don't h
 3. Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.
 4. Volunteers will be assigned certain tasks and timeslots which need to be followed stricktly. If for whetever reason you are unable to fulfill this, call your organization contact person asap so we can look for a solution.
 5. When in your role as a volunteer you represent Dutchento to the outside world and not yourself or your company. So for example:
-   * Don't recruit people for your company
-   * Don't invite people to non-Dutchento events
-   * You should be objective in your advice
+   * Don't recruit people for your company;
+   * Don't invite people to non-Dutchento events or gatherings;
+   * Be objective in your advice;
    * Handle in accordance to the interest of Dutchento and Dutchento's partners/sponsors.
 
 ## What To Do If You Witness Or Are Subject To Unacceptable Behavior
