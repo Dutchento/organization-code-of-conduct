@@ -21,6 +21,7 @@ If you have any questions or concerns at any point along the way, please don't h
    * Don't recruit people for your company;
    * Don't invite people to non-Dutchento events or gatherings;
    * Be objective in your advice;
+   * Don't use Dutchento's data or resources for non-Dutchento goals;
    * Handle in accordance to the interest of Dutchento and Dutchento's partners/sponsors.
 
 ## What To Do If You Witness Or Are Subject To Unacceptable Behavior
