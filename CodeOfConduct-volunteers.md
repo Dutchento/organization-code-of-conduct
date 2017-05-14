@@ -1,12 +1,12 @@
 # Dutchento Volunteer Code of Conduct
 
-First off: **THANK YOU** for volunteering your time and dedication. You are the face of our organisation and the responsibilities you have are crucial to the succes of our event. It is our incredible volunteers who are the true engine of our community.
+First off: **THANK YOU** for volunteering your time and dedication. You are the face of our organisation and the responsibilities you have are crucial to the succes of our community and events. It is our incredible volunteers who are the true engine of our community.
 
 To make everything go as smooth as possible we created this document to be clear about some general responsibilities and expectations.
 
-*Interested in volunteering? Contact us at volunteer@dutchento.org.*
+*Interested in volunteering? Contact us at info@dutchento.org.*
 
-If you have any questions or concerns at any point along the way, please don't hesitate to contact your main contact within the organization.
+If you have any questions or concerns at any point along the way, please don't hesitate to contact your main contact within the organization or use the e-mail above.
 
 ## Purpose
 1. Dutchento exists to support the local Magento users by making their lives easier, more profitable and more fun & to introduce others to our platform and community. As a volunteer, this is the main goal that you are supporting.
@@ -16,8 +16,9 @@ If you have any questions or concerns at any point along the way, please don't h
 1. As representatives of Dutchento towards the rest of our community, volunteers are expected to be model citizens abiding our [Community Code of Conduct](https://github.com/Dutchento/organization-code-of-conduct/blob/main/CodeOfConduct-community.md).
 2. You are expected to support community members in showing desired behavior and ask people to stop unacceptable behaviors.
 3. Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.
-4. Volunteers will be assigned certain tasks and timeslots which need to be followed stricktly. If for whetever reason you are unable to fulfill this, call your organization contact person asap so we can look for a solution.
-5. When in your role as a volunteer you represent Dutchento to the outside world and not yourself or your company. So for example:
+4. During events, volunteers will be assigned certain tasks and timeslots which need to be followed stricktly. If for whetever reason you are unable to fulfill this, call your organization contact person asap so we can look for a solution.
+5. When in your role as a volunteer you represent Dutchento to the outside world (and not yourself or your company).
+So for example:
    * Don't recruit people for your company;
    * Don't invite people to non-Dutchento events or gatherings;
    * Be objective in your advice;
