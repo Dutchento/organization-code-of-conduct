@@ -41,8 +41,6 @@
 
     **Guido Jansen** - @guido<br/>
     **Sander Mangel** - @sandermangel<br/>
-    **Nadja van Dijk** - @nadjavandijk<br/>
-
  
 *Portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Citizen Code of Conduct](http://citizencodeofconduct.org/), [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html), [Open Source Bridge](http://opensourcebridge.org/about/code-of-conduct/) and [The Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).*
 
