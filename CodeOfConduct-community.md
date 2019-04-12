@@ -31,11 +31,11 @@ Magento events strive to provide a harassment-free experience, and harassment of
 
 All attendees, speakers, and sponsors are required to agree with this Code of Conduct. If you violate the Code of Conduct, you may be expelled from the premises without an explanation or refund at the discretion of event staff.
 
-• Harassment of event participants in any form is not tolerated.
-• Communication should be inclusive and appropriate for a professional audience.
-• Do not insult or put down other attendees.
-• Behave professionally and respectfully towards others.
-• Sexist, racist, or exclusionary jokes or language are not acceptable.
+* Harassment of event participants in any form is not tolerated.
+* Communication should be inclusive and appropriate for a professional audience.
+* Do not insult or put down other attendees.
+* Behave professionally and respectfully towards others.
+* Sexist, racist, or exclusionary jokes or language are not acceptable.
 
 We ask all attendees to report any acts that violate this Code of Conduct. If we hear that someone has been hassling or poaching developers, then we shall ask them to leave immediately.
 
