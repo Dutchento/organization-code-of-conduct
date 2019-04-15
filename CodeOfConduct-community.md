@@ -63,7 +63,7 @@ Thank you for making our events welcoming for all attendees. If you are being ha
 * Not understanding the differences between constructive criticism and disparagement.
 * Sustained disruptions.
 * Violence, threats of violence or violent language.
-* Agressively promote your own products or services.
+* Aggressively promote your own products or services.
 * Recruitment outside specified channels
   * You are allowed to post jobs in 2 places: the #werk channel on slack (free) and our blog ([paid](https://www.dutchento.org/vacature-plaatsen/)). We will remove posts outside of those area's.
   * Unsolicited recruitment through DM is not accepted and will result in a ban when reported to the moderators.
